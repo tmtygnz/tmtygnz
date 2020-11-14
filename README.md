@@ -13,6 +13,7 @@ I'm Timothy from the Philipines. I create simple projects just to kill time or l
 ## Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jostimian&show_icons=true&theme=highcontrast)
 
+## More
 - 🔭 I’m currently working on NoteDock 
 - 🌱 I’m currently learning Python and C# 
 - 🤔 I’m looking for help with C# 
