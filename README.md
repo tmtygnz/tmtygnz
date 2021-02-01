@@ -9,13 +9,10 @@ I'm Timothy from the Philipines. I create simple projects just to kill time or l
 - Javascript
 - C#
 
-## Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jostimian&show_icons=true&theme=highcontrast)
-
 ## More
 - 🔭 I’m currently working on something
-- 🌱 I’m currently learning C#, Java, Javascript, Python
-- 🤔 I’m looking for help with Java, Javascipt
+- 🌱 I’m currently learning C#, ReactJS and Electron
+- 🤔 I’m looking for help with JS
 - 📫 How to reach me: [jostimian@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new) 
 
 
