@@ -1,5 +1,3 @@
-![Iam a student learning software development](https://pbs.twimg.com/media/Emwh-0hVkAA6Nr0?format=jpg&name=4096x4096)
-
 ### Hi there 👋, Hello iam Timothy
 #### Iam a student learning software development
 
