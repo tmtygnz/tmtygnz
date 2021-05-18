@@ -4,7 +4,7 @@
 I'm Timothy from the Philipines. I create simple projects just to kill time or learn some thing new. I currently learning React JS.
 ## Skills
 - Python
-- C++
+- Node Js
 - C#
 
 ## More
