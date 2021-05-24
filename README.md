@@ -9,7 +9,7 @@ I'm Timothy from the Philipines. I create simple projects just to kill time or l
 
 ## More
 - 🔭 I’m currently working on [LRC](https://github.com/jostimian/Laps_Remote)
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, Electron, TS, React
 - 🤔 I’m looking for help with C#, CI/CD, Devops, C/C++ 
 - 📫 How to reach me: [jostimian@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new) 
 
