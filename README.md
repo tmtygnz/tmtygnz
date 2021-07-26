@@ -2,6 +2,10 @@
 #### Iam a student learning software development
 
 I'm Timothy from the Philipines. I create simple projects just to kill time or learn some thing new. I currently learning WPF, UWP.
+
+### Note 👇
+I have flue so am taking a break.
+
 ## Skills
 - Python
 - Node Js
