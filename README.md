@@ -1,4 +1,4 @@
-### Hi there 👋, Hello iam Timothy and iam taking a break
+### Hi there 👋, Hello iam Timothy.
 #### Iam a student learning software development
 
 I'm Timothy from the Philipines. I create simple projects just to kill time or learn some thing new. I currently learning WPF, UWP.
