@@ -9,7 +9,7 @@ I'm Timothy from the Philipines. I create simple projects just to kill time or l
 - C#
 
 ## More
-- 🔭 I’m currently working on a cross platform verson of [LRV2](https://github.com/jostimian/LapsRemoteV2)
+- 🔭 I’m currently working on Portfolio / Blog Website
 - 🌱 I’m currently learning C#, WPF, UWP
 - 🤔 I’m looking for help with C#, CI/CD, Devops, C/C++ 
 - 📫 How to reach me: [jostimian@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new) 
