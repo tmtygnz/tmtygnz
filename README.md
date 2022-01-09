@@ -1,1 +1,2 @@
-Smashing my keyboard 247365 inside a nuclear bunker
+### Timothy Ganoza
+Probably smashing my keyboard on mars.
