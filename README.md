@@ -1,2 +1,2 @@
 ### Timothy Ganoza
-Probably smashing my keyboard on mars.
+Probably still smashing my keyboard on mars.
